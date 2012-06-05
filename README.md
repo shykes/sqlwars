@@ -14,7 +14,7 @@ Here's how to deploy Mongo and Postgres in a test sandbox, and start playing wit
 
 3. Deploy the sandbox
 
-    $ dotcloud push sqlwars
+    $ dotcloud create sqlwars; dotcloud push sqlwars
 
 
 4. Open a mongo shell
