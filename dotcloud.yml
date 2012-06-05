@@ -1,0 +1,6 @@
+mongo:
+    type: mongodb
+
+postgres:
+    type: postgresql
+
